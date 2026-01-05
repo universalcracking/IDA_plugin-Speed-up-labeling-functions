@@ -132,7 +132,3 @@ Import: Ctrl + Shift + I
 Export: Ctrl + Shift + E
 Settings: Edit → Plugins → CFS Settings…
 
-
-Adjust tone for malware / game RE / firmware analysis
-
-Just tell me.
